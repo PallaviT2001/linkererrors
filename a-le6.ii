@@ -1,0 +1,8 @@
+# 0 "le6.cpp"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "le6.cpp"
+
+void foo(int);
+
+void foo(double) {}

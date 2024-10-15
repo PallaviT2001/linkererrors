@@ -1,0 +1,9 @@
+# 0 "le10.cpp"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "le10.cpp"
+class MyClass {
+    MyClass();
+};
+
+MyClass::MyClass() {}
